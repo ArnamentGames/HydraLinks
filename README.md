@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/fitgi
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/gog.json
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/kaoskrew.json
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/onlinefix.json
-https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/streamrip-software.json
+https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/steamrip-software.json
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/steamrip.json
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/tinyrepacks.json
 https://raw.githubusercontent.com/ArnamentGames/HydraLinks/refs/heads/main/xatab.json
